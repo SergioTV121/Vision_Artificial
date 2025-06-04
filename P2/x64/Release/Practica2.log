@@ -1,0 +1,3 @@
+﻿Practica2.obj : error LNK2001: símbolo externo "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@@Z) sin resolver
+Practica2.obj : error LNK2001: símbolo externo "void __cdecl cv::cvtColor(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z) sin resolver
+C:\Users\Sergio\Desktop\Practica2\x64\Release\Practica2.exe : fatal error LNK1120: 2 externos sin resolver

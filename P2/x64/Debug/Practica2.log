@@ -1,0 +1,4 @@
+﻿  Practica2.cpp
+C:\Users\Sergio\Desktop\Practica2\Practica2\Practica2.cpp(85,59): warning C4101: 'i_esc_grises_val': variable local sin referencia
+C:\Users\Sergio\Desktop\Practica2\Practica2\Practica2.cpp(93,43): warning C4101: 'ValorASCII_eg_val': variable local sin referencia
+  Practica2.vcxproj -> C:\Users\Sergio\Desktop\Practica2\x64\Debug\Practica2.exe
