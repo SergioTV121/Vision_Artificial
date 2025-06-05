@@ -1,0 +1,3 @@
+﻿  Practica1.cpp
+C:\Users\Sergio\Desktop\Practica 3.5\Practica 3\Practica1.cpp(88,9): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  Practica 3.vcxproj -> C:\Users\Sergio\Desktop\Practica 3.5\x64\Debug\Practica 3.exe
