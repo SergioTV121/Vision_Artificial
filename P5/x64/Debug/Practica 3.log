@@ -1,0 +1,20 @@
+﻿  Practica1.cpp
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(62,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(75,9): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(91,25): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(99,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(81,28): warning C4101: 'm2': variable local sin referencia
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(81,24): warning C4101: 'm1': variable local sin referencia
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(117,7): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(124,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(137,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(151,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(162,20): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(166,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(168,25): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(248,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(253,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(254,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(255,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Sergio\Desktop\P5\Practica 3\Practica1.cpp(216,9): warning C4101: 'sigma': variable local sin referencia
+  Practica 3.vcxproj -> C:\Users\Sergio\Desktop\P5\x64\Debug\Practica 3.exe
